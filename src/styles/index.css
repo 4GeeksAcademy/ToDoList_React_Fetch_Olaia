@@ -1,12 +1,27 @@
 
-/* 
 
-    You can write your own styles here...
+.Container{
+    margin: 0;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/021/745/166/non_2x/aesthetic-blue-brown-pastel-blob-liquid-fluid-shape-boho-and-floral-leaves-abstract-style-template-background-vector.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+
+.AgregarTarea {
+    margin-left: 5px;
+    border-radius: 4px;
+    padding: 8px;}
+
+input{
+    border-radius: 5px;
+    padding:8px;
+    margin-top: 20px;
+
+}
+
+
+
+
